@@ -2,6 +2,6 @@
 The complete code will be made public after the article is accepted.
 
 # What is CRC-MSI-Prediction?
-MSI Prediction DL Model and Other Prediction Model
+The framework for CRC auto segmentation and MSI prediction based on Venous phase and arterial phase CT images and clinicopathological data.
 
-# What can CRC-MSI-Prediction do for you?
+%# What can CRC-MSI-Prediction do for you?
